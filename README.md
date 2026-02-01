@@ -1,2 +1,17 @@
-# Exp-2-24BDA70234
-word counter
+Word Counter (150 Word Limit)
+This project is a simple Word Counter web application built using HTML, CSS, and JavaScript.
+It allows users to type text and automatically counts the number of words entered, with a maximum limit of 150 words.
+
+When the word limit is exceeded, the input resets and the counter starts again from 0, as per the experiment requirement.
+
+🚀 Features
+Live word counting
+Maximum word limit: 150
+Automatically resets when limit is exceeded
+Clean and simple UI
+Lightweight (no external libraries)
+Ready for deployment on Netlify or GitHub Pages
+🛠️ Technologies Used
+HTML5 – Structure
+CSS3 – Styling and layout
+JavaScript (Vanilla) – Logic and interactivity
